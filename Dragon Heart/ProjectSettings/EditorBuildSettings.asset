@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/Final Level.unity
+    guid: 7cf2c6f62289fad4e94a12638e03c0a6
+  - enabled: 1
+    path: "Assets/Scene/Cr\xE9dit.unity"
+    guid: a631b17d9ebaabc4f9ecf6663e9f1190
+  m_configObjects: {}
