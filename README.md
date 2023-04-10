@@ -1,6 +1,6 @@
 # DragonHeart
 
-Game made during a game week at Isart Digital Montréal on Unity.
+Game made during a game week(5 days) at Isart Digital Montréal on Unity.
 Controller is gamepad.
 In collaboration with game designers and artists.
 
