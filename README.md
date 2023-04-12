@@ -1,5 +1,6 @@
 # DragonHeart
 
+Sptember 2022.
 Game made during a game week(5 days) at Isart Digital Montréal on Unity.
 Controller is gamepad.
 In collaboration between programmers, game designers and artists.
