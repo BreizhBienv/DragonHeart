@@ -2,7 +2,7 @@
 
 Game made during a game week(5 days) at Isart Digital Montréal on Unity.
 Controller is gamepad.
-In collaboration with game designers and artists.
+In collaboration between programmers, game designers and artists.
 
  
 You incarnate a young girl with draconic powers.
