@@ -1,6 +1,9 @@
 name: Try to build an download result
 
 on:
+  push:
+    branches:
+    - main
   workflow_dispatch:
 
 jobs:
