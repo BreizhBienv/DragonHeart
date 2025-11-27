@@ -1,3 +1,5 @@
+name: Try to build an download result
+
 on:
   workflow_dispatch:
   
